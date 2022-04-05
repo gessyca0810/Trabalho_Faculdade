@@ -1,0 +1,14 @@
+/*Integrantes
+Carlos Eduardo Cardia Fernandez - 11911EMT016
+Gessyca Carneiro Bernandes - 11911EMT022
+Laura Bueno Ferreira - 11911EMT017
+Talles Martins de Carvalho - 11911EMT014
+*/
+
+Para testar o programa com 2 processos a serem simulados e com 5 6 1 recursos de cada tipo disponíveis:
+
+./banqueiro -n 2 -a 5 6 1
+
+Para testar o programa com 4 processos a serem simulados e com 0 3 2 recursos de cada tipo disponíveis:
+
+./banqueiro -n 4 -a 7 3 2

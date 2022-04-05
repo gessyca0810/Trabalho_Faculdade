@@ -1,0 +1,10 @@
+CC = gcc
+CFLAGS = -g 
+
+PROGRAMS = loop-malloc\
+           pilha 
+
+all: $(PROGRAMS)
+
+clean:
+	rm -f *~ $(PROGRAMS)
